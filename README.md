@@ -11,7 +11,6 @@ ___
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
 ___
-![sikk806's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikk806&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sikk806)](https://solved.ac/sikk806/)  
 ___
 ## 📚 Studies  
