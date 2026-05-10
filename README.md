@@ -1,6 +1,5 @@
 ![hello-world](https://github.com/sikk806/sikk806/assets/54883267/f6c7b787-575e-480e-ad56-c45c97e0f297)
 ## 🍼sikk806🍼   
-🏫 건국대학교 컴퓨터공학과  
 
 ___
 #### ⌨️ Stacks  
