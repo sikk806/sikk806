@@ -1,8 +1,7 @@
 ![hello-world](https://github.com/sikk806/sikk806/assets/54883267/f6c7b787-575e-480e-ad56-c45c97e0f297)
 ## 🍼sikk806🍼   
-## 건국대학교 컴퓨터공학부
 ___
-
+건국대학교 컴퓨터공학부
 #### ⌨️ Stacks  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
