@@ -23,4 +23,4 @@ Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
 ![Static Badge](https://img.shields.io/badge/-ECT-555555)  
 멋쟁이사자처럼 부트캠프 - 유니티
 <br>
-SSAFY(진행중)
+SSAFY
